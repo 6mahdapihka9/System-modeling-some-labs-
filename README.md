@@ -16,5 +16,5 @@ Lab #2
   -Third task: ditto
 Lab #3
   Modeling of queuing systems.
-  1 box, 20 clients, time for 1 client = 0.5 sec, every client can wait queue randomly from 0 to 1 sec,
+  1 box, 20 clients, time for 1 client = 0.05 sec, every client can wait queue randomly from 0 to 0.1 sec,
   result - number of satisfied/not satisfied client and average time to wait in queue;
